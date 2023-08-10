@@ -11,6 +11,8 @@ The Emotion-based Music Player is an innovative and personalized music experienc
 
 **Expandable for More Emotions:** Can be easily extended to recognize and respond to a wider range of emotions.
 
+https://www.loom.com/share/b6bccc1b30e640d8a7da18709d39f4ee?sid=ae04d56f-05fb-4ebd-acfd-3ddd79b9c4a1
+
 ### How to Install
 1. Clone the Repository: Clone the code repository to your local machine using Git.
 
