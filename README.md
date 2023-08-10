@@ -4,8 +4,11 @@ The Emotion-based Music Player is an innovative and personalized music experienc
 
 ## Why Is It Cool?
 **Personalized Experience:** Tailors the music selection to the listener's current mood, enhancing the connection between music and emotions.
+
 **Real-Time Emotion Analysis**: Utilizes the camera to analyze facial expressions in real-time, creating a dynamic and engaging user experience.
+
 **Easy Integration with Spotify:** Allows users to play music directly from Spotify, providing access to a vast collection of tracks and playlists.
+
 **Expandable for More Emotions:** Can be easily extended to recognize and respond to a wider range of emotions.
 
 ### How to Install
