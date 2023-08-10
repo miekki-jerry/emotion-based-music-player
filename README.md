@@ -23,8 +23,11 @@ python app.py
 
 ## Technology Stack
 **Facial Recognition:** OpenCV for face detection and capturing real-time video feed.
+
 **Emotion Analysis:** TensorFlow with a pre-trained model (e.g., AffectNet) for emotion classification.
+
 **Music Integration:** Uses the Spotipy library to open Spotify URLs for music playback.
+
 **Web Integration:** Uses the webbrowser module to open Spotify links in the default web browser.
 
 ## Conclusion
